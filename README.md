@@ -1,3 +1,5 @@
+# 🚧 The third-party API getdango.com is not available anymore.
+
 # dango
 
 [![Travis](https://img.shields.io/travis/vutran/dango/develop.svg?maxAge=2592000&style=flat-square)](https://travis-ci.org/vutran/dango) [![Coveralls branch](https://img.shields.io/coveralls/vutran/dango/develop.svg?maxAge=2592000&style=flat-square)](https://coveralls.io/github/vutran/dango) [![license](https://img.shields.io/github/license/vutran/dango.svg?maxAge=2592000&style=flat-square)](LICENSE)
